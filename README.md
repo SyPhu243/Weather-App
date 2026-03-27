@@ -23,3 +23,4 @@ Dự án này là một ứng dụng web cho phép người dùng tra cứu thô
 ## Ảnh minh họa
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/82829834-4240-437e-aa8f-1690775956b0" />
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/452a352b-dc9e-492b-bd7b-d1877ab6306e" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/e0cc65e9-6ae7-4161-aed0-4acb8c0a97ab" />
